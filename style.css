@@ -83,6 +83,7 @@ body {
 
 .card-image:hover::before {
   display: block;
+  cursor: pointer;
 }
 h3 {
   color: var(--white);
@@ -91,6 +92,7 @@ h3 {
 
 .hover:hover {
   color: var(--primary-cyan);
+  cursor: pointer;
 }
 p {
   color: var(--primary-soft-blue);
